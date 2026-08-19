@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+chefai.db
+.idea/
+.vscode/
